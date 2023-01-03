@@ -98,7 +98,7 @@ export default function Home() {
             </div>
             <div className='text-center shadow-lg p-10 rounded-xl my-10 text-white dark:text-black bg-gray-900 dark:bg-white flex-1'>
               <Image src={consulting} width={100} height={100} className='mx-auto' alt=''/>
-              <h3 className="text-lg font-medium pt-8 pb-2" >Superbe Design</h3>
+              <h3 className="text-lg font-medium pt-8 pb-2" >Design Magnifique</h3>
               <p className="py-2">Créer des designs élégants adaptés à vos besoins.</p>
               <h4 className="py-4 text-teal-600">Outils de Design que j&aposutilise</h4>
               <p className="text-white dark:text-gray-800 py-1">Photoshop</p>
